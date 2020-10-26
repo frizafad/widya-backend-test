@@ -2,6 +2,10 @@
 
 Simple Authentication App
 
+### info
+This REST API application is built with javascript and developed with nodeJS.
+This App using the Express JS framework with the addition of the PassportJS authentication library and using MongoDB as a Database Management System.
+
 ## Getting Started
 
 1. Clone the project from github
